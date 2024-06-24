@@ -80,7 +80,7 @@ main {
 }
 
 .thumbnails img {
-    width: 50px;
+    width: 90px;
     cursor: pointer;
     
 }
@@ -93,6 +93,7 @@ main {
 .product-details {
     max-width: 500px;
     padding-left: 40px;
+    margin-top: 35px;
     
 }
 
@@ -104,7 +105,7 @@ main {
 
 .product-details h1 {
     font-size: 2em;
-    margin: 30px 0;
+    margin: 15px 0;
 }
 
 .product-details p {
@@ -127,7 +128,7 @@ main {
 }
 
 .discount {
-    background-color: rgb(223, 193, 193);
+    background-color: rgb(243, 236, 236);
     color: orange;
     padding: 2px 10px;
     border-radius: 5px;
